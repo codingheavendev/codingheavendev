@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">👨‍💻 사용 기술 스택</h1>
 
-<!--
-**codingheavendev/codingheavendev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💡 프로그래밍 언어
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Node.js
+- JavaScript (ES6)
+- PHP
+- Python
+- HTML / CSS
+
+---
+
+## ⚙️ 프론트엔드
+
+- React
+- Next.js
+- jQuery
+- Bootstrap
+
+---
+
+## 🔧 백엔드 & 프레임워크
+
+- Express.js
+- CodeIgniter
+
+---
+
+## 🗄️ 데이터베이스
+
+- MySQL
+- MongoDB
+- MariaDB
+
+---
+
+## ☁️ 인프라 / DevOps
+
+- AWS (EC2 포함)
+- Apache / Nginx
+- Linux
+
+---
