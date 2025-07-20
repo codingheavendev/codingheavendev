@@ -1,45 +1,47 @@
-<h1 align="center">👨‍💻 사용 기술 스택</h1>
+<h1 align="center">🛠️ 사용 기술 스택</h1>
 
 ---
 
-## 💡 프로그래밍 언어
+## 💡 언어 & 기초
 
-- Node.js
-- JavaScript (ES6)
-- PHP
-- Python
-- HTML / CSS
-
----
-
-## ⚙️ 프론트엔드
-
-- React
-- Next.js
-- jQuery
-- Bootstrap
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![ES6](https://img.shields.io/badge/ES6-323330?style=flat&logo=javascript&logoColor=yellow)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ---
 
-## 🔧 백엔드 & 프레임워크
+## 🎨 프론트엔드
 
-- Express.js
-- CodeIgniter
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+---
+
+## ⚙️ 백엔드 & 프레임워크
+
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
 
 ---
 
 ## 🗄️ 데이터베이스
 
-- MySQL
-- MongoDB
-- MariaDB
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
-## ☁️ 인프라 / DevOps
+## ☁️ 인프라 & DevOps
 
-- AWS (EC2 포함)
-- Apache / Nginx
-- Linux
-
----
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
