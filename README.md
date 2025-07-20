@@ -1,6 +1,6 @@
 <h1 align="center">Tech Stack</h1>
 <p align="center">Passionate full-stack developer who enjoys solving real-world problems with clean and scalable code.</p>
----
+
 
 ## 💡 Programming Languages
 
